@@ -1,0 +1,30 @@
+#head{
+	text-align:center;
+	font:30px bold;
+	font-family:cursive;
+	color: white;
+}
+
+.titlecenter{
+	text-align: center;
+}
+
+.right{
+	text-align: right;
+}
+
+.blackboard{
+	background-image: url('/img/blackboard.jpg');
+	background-position: left top;
+}
+
+.white{
+	color: white;
+}
+
+#loginstyle{
+	background-color: lightblue;
+	border: white solid;
+	color: white;
+	font-family: cursive;
+}
